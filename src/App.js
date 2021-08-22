@@ -68,6 +68,7 @@ function App() {
 
   return (
     <div class="container">
+    <h1>FRUITS PRICECART</h1>
       <div class="row" style={{ marginTop: "1%" }}>
         <div class="col-sm-10">
           <div className="row">
